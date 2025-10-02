@@ -159,9 +159,8 @@ pytest -v
 
 Embed gif:
 
-```markdown
-![Demo](https://github.com/Sep-AI/vending-vision-pipeline/blob/master/assets/demo.gif)
-```
+[![Pipeline Demo](assets/demo.gif)](https://github.com/Sep-AI/vending-vision-pipeline/blob/master/assets/demo.gif)
+
 
 ---
 
